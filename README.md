@@ -7,7 +7,7 @@ Manage your musics, albums, artists and more on desktop application. Developed w
 First of all, you need to clone the project to your local machine
 
 ```
-git clone https://github.com/sinemhasircioglu/MusicDatabase-Desktop.git
+git clone https://github.com/huudiem25/MusicApp.git
 cd MusicDatabase-Desktop
 ```
 
@@ -17,7 +17,7 @@ A step by step series of building that project
 
 1. Change connection string of Database (File: database.cs, Line: 14)
 
-2. Run [database.sql](https://github.com/sinemhasircioglu/MusicDatabase-Desktop/blob/master/database.sql) script on your database :boom:
+2. Run [database.sql](https://github.com/huudiem25/MusicApp/blob/master/database.sql) script on your database :boom:
 
 ## Built With
 
